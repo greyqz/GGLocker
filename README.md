@@ -1,6 +1,9 @@
 # GGLocker
 A simple WinFolder Locker program using C++.
 
+## Simple use
+Just copy `GGLocker.exe` to a folder's parent folder. Then double click to open program and type the folder name which you want to lock. To unlock, double click the program and type the folder name which you want to unlock. Type 1 (Unlock once) to unlock, or type 3 (Unlock forever) to unlock the program forever.
+
 ## Description
 There are two modes, one is "Unlocked" and the other is "Locked".
 
@@ -23,6 +26,3 @@ The answer why "locked" folder is a "Recycle bin" is that if the suffix of a fol
 - Dial-up network: `.{992CFFA0-F557-101A-88EC-00DD010CCC48}`
 - Scheduled tasks: `.{D6277990-4C6A-11CF-8D87-00AA0060F5BF}`
 - Temporary files: `.{7BD29E00-76C1-11CF-9DD0-00A0C9034933}`
-
-## Simple use
-Just copy `GGLocker.exe` to a folder's parent folder. Then double click to open program and type the folder name which you want to lock. To unlock, double click the program and type the folder name which you want to unlock. Type 1 (Unlock once) to unlock, or type 3 (Unlock forever) to unlock the program forever.
