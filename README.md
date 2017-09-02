@@ -1,9 +1,6 @@
 # GGLocker
 A simple WinFolder Locker program using C++.
 
-## Simple use
-Just copy `GGLocker.exe` to a folder's parent folder. Then double click to open program and type the folder name which you want to lock. To unlock, double click the program and type the folder name which you want to unlock. Type 1 (Unlock once) to unlock, or type 3 (Unlock forever) to unlock the program forever.
-
 ## Description
 There are two modes, one is "Unlocked" and the other is "Locked".
 
@@ -15,7 +12,14 @@ There are some small functions in "Locked" mode:
 - Delete "locked" folder;
 - Delete "locked" folder and create a new one.
 
-The answer why "locked" folder is a "Recycle bin" is that if the suffix of a folder is `.{645FF040-5081-101B-9F08-00AA002F954E}`, it will be a shortcut of Recycle bin. So you can display "locked" folder's style by changing the value LOCK_STRING to one of these hereinbelow:
+## Usage
+1. Copy `GGLocker.exe` to a folder's parent folder. 
+2. Double click to open program and type the folder name which you want to lock.
+3. To unlock, double click the program and type the folder name which you want to unlock. Type 1 (Unlock once) to unlock, or type 3 (Unlock forever) to unlock the program forever.
+
+## Principle
+
+The answer why "locked" folder is a "Recycle bin" is that if the suffix of a folder is `.{645FF040-5081-101B-9F08-00AA002F954E}`, it will be a shortcut of Recycle bin. So you can display "locked" folder's style by changing the value `LOCK_STRING` in the source code to one of these hereinbelow:
 
 - Control panel: `.{21EC2020-3AEA-1069-A2DD-08002B30309D}`
 - Printer: `.{2227A280-3AEA-1069-A2DE-08002B30309D}`
