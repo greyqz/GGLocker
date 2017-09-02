@@ -11,7 +11,7 @@ A simple WinFolder Locker program using C++.
 There are two modes, one is "Unlocked" and the other is "Locked".
 
 ### "Unlocked" mode
-You can add password and lock the folder by typing 1 (Set a password and lock). The password can be more than one line.
+You can add password and lock the folder by typing 1 (Set a password and lock). The password can be more than one line. Type a line "!!!" as the end of password.
 
 This is a password example:
 
@@ -25,7 +25,7 @@ If you are afraid of losing password, you can create a password hint file direct
 
 ### "Locked" mode
 
-Opening the "locked" folder, you can see the inside of Windows Recycle bin. To unlock the folder, you must type the right password line by line. Type a line "!!!" as the end of password.
+Opening the "locked" folder, you can see the inside of Windows Recycle bin. To unlock the folder, you must type the right password line by line.
 
 There are some small functions in "Locked" mode:
 
