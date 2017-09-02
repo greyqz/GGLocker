@@ -39,15 +39,15 @@ The answer why "locked" folder is a "Recycle bin" is that if the suffix of a fol
 
 | Style of folder | Suffix code |
 | ----------- | ------------------------ |
-| Control panel: | `.{21EC2020-3AEA-1069-A2DD-08002B30309D}` |
-| Printer: | `.{2227A280-3AEA-1069-A2DE-08002B30309D}` |
-| Recycle bin: | `.{645FF040-5081-101B-9F08-00AA002F954E}` |
-| Webpage: | `.{25336920-03F9-11CF-8FD0-00AA00686F13}` |
-| IE: | `.{871C5380-42A0-1069-A2EA-08002B30309D}` |
-| Network neighborhood: | `.{208D2C60-3AEA-1069-A2D7-08002B30309D}` |
-| Dial-up network: | `.{992CFFA0-F557-101A-88EC-00DD010CCC48}` |
-| Scheduled tasks: | `.{D6277990-4C6A-11CF-8D87-00AA0060F5BF}` |
-| Temporary files: | `.{7BD29E00-76C1-11CF-9DD0-00A0C9034933}` |
+| Control panel | `.{21EC2020-3AEA-1069-A2DD-08002B30309D}` |
+| Printer | `.{2227A280-3AEA-1069-A2DE-08002B30309D}` |
+| Recycle bin | `.{645FF040-5081-101B-9F08-00AA002F954E}` |
+| Webpage | `.{25336920-03F9-11CF-8FD0-00AA00686F13}` |
+| IE | `.{871C5380-42A0-1069-A2EA-08002B30309D}` |
+| Network neighborhood | `.{208D2C60-3AEA-1069-A2D7-08002B30309D}` |
+| Dial-up network | `.{992CFFA0-F557-101A-88EC-00DD010CCC48}` |
+| Scheduled tasks | `.{D6277990-4C6A-11CF-8D87-00AA0060F5BF}` |
+| Temporary files | `.{7BD29E00-76C1-11CF-9DD0-00A0C9034933}` |
 
 The password is saved directly in the locked folder.
 
