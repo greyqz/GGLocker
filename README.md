@@ -16,9 +16,9 @@ You can add password and lock the folder by typing 1 (Set a password and lock). 
 This is a password example:
 
 ``` plain
-line 1> A quick brown fox
-line 2> Jumped over the lazy dog.
-line 3> !!!
+Line 1> A quick brown fox
+Line 2> Jumped over the lazy dog.
+Line 3> !!!
 ```
 
 If you are afraid of losing password, you can create a password hint file directly in the parent folder.
